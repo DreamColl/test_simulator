@@ -17,10 +17,11 @@ var cards = Object.freeze({
 
 // 自定义英灵
 var DiyServer = [
-    { num: 'd001', img: '', name: 'Alcarllo' },
-    { num: 'd002', img: '', name: '北川小姐' },
+    { num: 'd001', img: '', name: 'Alcarllo-四星' },
+    { num: 'd002', img: 'd002', name: '北川小姐' },
     { num: 'd003', img: 'd003', name: '雾花' },
-    { num: 'd004', img: '', name: 'AMeltLilith' },
+    { num: 'd004', img: 'd004', name: 'AMeltLilith' },
+    { num: 'd005', img: 'd005', name: '游系风-四星' },
 ]
 
 // drop rate:
